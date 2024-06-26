@@ -1,0 +1,88 @@
+{
+    "ib_hash": "73b864d1",
+    "vb0_hash": "57fa85a1",
+    "vb1_hash": "3020d3e9",
+    "vertex_count": 26712,
+    "index_count": 109065,
+    "components": [
+        {
+            "dispatch_x": 87,
+            "vertex_offset": 0,
+            "vertex_count": 5517,
+            "index_offset": 0,
+            "index_count": 20436,
+            "vg_offset": 0,
+            "vg_count": 59
+        },
+        {
+            "dispatch_x": 30,
+            "vertex_offset": 5517,
+            "vertex_count": 1908,
+            "index_offset": 20436,
+            "index_count": 8286,
+            "vg_offset": 59,
+            "vg_count": 1
+        },
+        {
+            "dispatch_x": 25,
+            "vertex_offset": 7425,
+            "vertex_count": 1580,
+            "index_offset": 28722,
+            "index_count": 5562,
+            "vg_offset": 60,
+            "vg_count": 8
+        },
+        {
+            "dispatch_x": 158,
+            "vertex_offset": 9005,
+            "vertex_count": 10087,
+            "index_offset": 34284,
+            "index_count": 42630,
+            "vg_offset": 68,
+            "vg_count": 54
+        },
+        {
+            "dispatch_x": 52,
+            "vertex_offset": 19092,
+            "vertex_count": 3279,
+            "index_offset": 76914,
+            "index_count": 13146,
+            "vg_offset": 122,
+            "vg_count": 32
+        },
+        {
+            "dispatch_x": 61,
+            "vertex_offset": 22371,
+            "vertex_count": 3885,
+            "index_offset": 90060,
+            "index_count": 16980,
+            "vg_offset": 154,
+            "vg_count": 53
+        },
+        {
+            "dispatch_x": 7,
+            "vertex_offset": 26256,
+            "vertex_count": 386,
+            "index_offset": 107040,
+            "index_count": 1728,
+            "vg_offset": 207,
+            "vg_count": 1
+        },
+        {
+            "dispatch_x": 2,
+            "vertex_offset": 26642,
+            "vertex_count": 70,
+            "index_offset": 108768,
+            "index_count": 297,
+            "vg_offset": 208,
+            "vg_count": 2
+        }
+    ],
+    "shapekeys": {
+        "offsets_hash": "7d919713",
+        "scale_hash": "d35566be",
+        "vertex_count": 31023,
+        "dispatch_y": 970,
+        "checksum": 2015
+    }
+}
